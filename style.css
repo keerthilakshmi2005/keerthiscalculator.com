@@ -1,0 +1,29 @@
+.box{
+    width: 150px;
+    height:150px;
+} 
+
+.container{
+display:flex;
+padding: 0 555px;
+}
+.box1{
+
+  background-color:antiquewhite
+}
+.box2{
+
+    background-color:mediumaquamarine
+}
+.container{
+    display:flex;
+    }
+
+.box3{
+
+    background-color:palevioletred
+
+}
+.box4{
+    background-color: sandybrown;
+}
